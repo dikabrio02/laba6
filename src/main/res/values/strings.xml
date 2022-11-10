@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Довідник студентів</string>
+    <string name="hello_text">Привіт студенти</string>>
+    <string name="btn_text">Показати список</string>
+    <string name="button">Button</string>>
+    <string-array name="students_groups">
+        <item>301</item>>
+        <item>302</item>>
+        <item>303</item>>
+        <item>304</item>>
+    </string-array>
+    <string name="edu_level_txt">Рівень освіти - </string>
+    <string name="edu_level_bachelor_txt">бакалавр</string>
+    <string name="edu_level_master_txt">магістр</string>
+
+    <string name="additional_flg_txt">Додаткові відомості - </string>
+    <string name="contract_flg_txt">наявність контрактників</string>
+    <string name="privilege_flg_text">наявність пільговиків</string>
+
+    <string name="btn_send">Відправити повідомлення</string>
+    <string name="textView">Довідник студентів</string>
+    <string name="btn_groups_txt">Студентськи групи</string>
+    <string name="btn_add">+</string>
+    <string name="btn_share">Поділитися</string>
+
+    <item name="textView" type="id" />
+
+    <string name="grp_number_txt">Номер групи:</string>
+    <string name="faculty_txt">Факультет</string>
+    <string name="btn_ok_txt">ОК</string>
+    <string name="btn_grp_detail_txt">Детальніше ...</string>
+
+</resources>
